@@ -34,8 +34,8 @@ You should do following (also criteria for grading):
   - Return the converted value from the function back to the user
   - Comment your code and add a docstring that explains how to use your `fahrToCelsius` function (i.e., you should write the purpose of the function, parameters, and returned values)
   - Test and use your newly created function by finding the results for following questions:
-     - What is 48° Fahrenheit in Celsius? **==> Add your answer here:**
-     - What about 71° Fahrenheit in Celsius? **==> Add your answer here:**
+     - What is 48° Fahrenheit in Celsius? **==> 8,89 Celsius**
+     - What about 71° Fahrenheit in Celsius? **==> 21,67 Celsius:**
   - Upload and commit your script with the name `functions.py` in your own GitHub repository for Exercise 4
 
 If everything in your script is working properly the following test case should work:
@@ -126,11 +126,11 @@ In more detail, you should do following (also criteria for grading):
 
 ## Problem 1 - Answers to questions
 
-### 1. 
+### 1. Yeah,concept of fuctions is pretty clear. I have used functions before.
 
-### 2.
+### 2. Function is like calculator, so fuctions do it for you.
 
-### 3. 
+### 3. No, it doesnt matter at all.
 
 
 
